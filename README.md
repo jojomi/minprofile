@@ -21,7 +21,7 @@ Minimum golang profiling library. Get a quick overview of where time is spent in
     time.Sleep(250 * time.Millisecond) // actually here should be your application code
     p.StepP("easy task finished")
 
-Default output channel is `os.Stdout`, but can be configured using `Profile.OutputWrite`.
+Default output channel is `os.Stdout`, but can be configured using `Profile.OutputWriter`.
 
 
 ## Output
