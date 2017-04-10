@@ -2,7 +2,7 @@
 
 Minimum golang profiling library. Get a quick overview of where time is spent in your code.
 
-[![Build Status](https://api.travis-ci.org/jojomi/minprofile.svg?branch=master)](https://travis-ci.org/jojomi/minprofile) [![Go Report Card](https://goreportcard.com/badge/github.com/jojomi/minprofile)](https://goreportcard.com/report/github.com/jojomi/minprofile) [![Coverage Status](https://coveralls.io/repos/github/jojomi/minprofile/badge.svg?branch=master)](https://coveralls.io/github/jojomi/minprofile?branch=master)
+[![Godoc Documentation](https://godoc.org/github.com/jojomi/minprofile?status.svg)](http://godoc.org/github.com/jojomi/minprofile) [![Build Status](https://api.travis-ci.org/jojomi/minprofile.svg?branch=master)](https://travis-ci.org/jojomi/minprofile) [![Go Report Card](https://goreportcard.com/badge/github.com/jojomi/minprofile)](https://goreportcard.com/report/github.com/jojomi/minprofile) [![Coverage Status](https://coveralls.io/repos/github/jojomi/minprofile/badge.svg?branch=master)](https://coveralls.io/github/jojomi/minprofile?branch=master)
 
 ## Install
 
